@@ -1,0 +1,23 @@
+{
+  "name": "14-model-view-controller",
+  "version": "1.0.0",
+  "description": "MVC-Tech-Blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mechas8703/14-Model-View-Controller.git"
+  },
+  "author": "Maria Cardona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mechas8703/14-Model-View-Controller/issues"
+  },
+  "homepage": "https://github.com/mechas8703/14-Model-View-Controller#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
